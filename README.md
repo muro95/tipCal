@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/vTRNbJs.gif)
+! [] (https://i.imgur.com/vTRNbJs.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
@@ -39,8 +39,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
--App Layout 
--
+- App Layout 
+- Loading and Saving 
+- Add-on Features 
 
 ## License
 
